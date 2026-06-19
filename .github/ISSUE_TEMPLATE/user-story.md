@@ -1,3 +1,11 @@
+---
+name: User Story
+about: Template for writing a new user story
+title: ''
+labels: ''
+assignees: ''
+---
+
 **As a** [role]\
 **I need** [function]\
 **So that** [benefit]
