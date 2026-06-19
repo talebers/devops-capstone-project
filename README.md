@@ -1,5 +1,6 @@
 # DevOps Capstone Template
 
+This repository contains the planning, development, and deployment artifacts for the Customer Accounts microservice — a RESTful API built with Python Flask to create, read, update, delete, and list customer accounts for an e-commerce platform. This project is part of the IBM DevOps Capstone.
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
